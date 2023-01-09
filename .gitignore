@@ -7,7 +7,7 @@
 /data.json
 /graph.js
 /package.json
-/package.json
+/package-lock.json
 
 # production
 /build
