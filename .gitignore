@@ -6,6 +6,8 @@
 /coverage
 /data.json
 /graph.js
+/package.json
+/package.json
 
 # production
 /build

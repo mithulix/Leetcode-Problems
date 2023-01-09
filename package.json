@@ -1,5 +1,5 @@
 {
-  "name": "Leetcode_Problems",
+  "name": "LeetCode_Problems",
   "dependencies": {
     "jsonfile": "^4.0.0",
     "jsonfile-updater": "^3.1.0",
