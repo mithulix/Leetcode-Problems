@@ -28,4 +28,4 @@ class SummaryRanges:
                 self.numbers = [[value, value]] + self.numbers
 
     def getIntervals(self) -> List[List[int]]:
-        return self.numbers
+        print (self.numbers)
