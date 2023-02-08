@@ -12,6 +12,12 @@
 # production
 /build
 
+# files
+test.js
+test.py
+graph.js
+data.json
+
 # misc
 .DS_Store
 .env.local

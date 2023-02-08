@@ -1,3 +1,4 @@
-let text = "HELLO WORLD";
-let char = text[9];
-console.log(char);
+
+let text = "The rain in SPAIN stays mainly in the plain";
+
+console.log(text.match(/ain/gi));
