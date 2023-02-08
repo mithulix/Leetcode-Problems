@@ -17,7 +17,7 @@ test.js
 test.py
 graph.js
 data.json
-
+.gitignore
 # misc
 .DS_Store
 .env.local
