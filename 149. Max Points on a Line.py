@@ -18,3 +18,4 @@ class Solution:
                 slopes[slope] += 1
                 ans = max(slopes[slope], ans)
         return ans+1
+    
