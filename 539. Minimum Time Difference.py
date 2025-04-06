@@ -9,6 +9,8 @@ class Solution:
             minutesConvert.append(minutes)
         minutesConvert.sort()
         res = float("inf")
+        
+        if left  =  right + 1 
 
         left, right = 0, 1
         while right < len(minutesConvert): 
@@ -20,7 +22,7 @@ class Solution:
         res = min(res, 1440 - minutesConvert[right] + minutesConvert[left])
 
         return res
-
+    
 # Sample usage
 sol = Solution()
 timePoints = ["23:59", "00:00", "12:34"]
